@@ -24,8 +24,22 @@ A school repository for CS 579 with code and report write‑ups.
 
 ---
 
-## Software Engineering Projects — Selected Repositories
+## Software Engineering Projects
 
+**[Local Taste](#)** — Team Lead | TypeScript, React, TailwindCSS, ShadCN, Google Cloud APIs, CI/CD  
+Championed a team of four to build a cultural dining app with payment rewards, real-time chat/blog feeds, and AI features; led coding standards, MongoDB setup, UI design, and CI/CD pipelines.
+
+**[Projectify](#)** — Fullstack | TypeScript, Next.js, React, Express, Redux Toolkit, AWS  
+Built a collaborative project management platform with real‑time updates via Socket.io; AWS‑hosted backend with Cognito auth, Prisma ORM, Amplify frontend, and dynamic dashboards.
+
+**[ISU Pulse](#)** — Backend | Java, Spring Boot, WebSocket, OpenAI, OpenWeatherMap  
+Created a platform to manage Iowa State activities; implemented WebSocket chat and system announcements; integrated OpenAI and weather APIs for class recommendations and planning.
+
+**[Llama‑Latte](#)** — React Native, Python, OpenAI, Firebase, Hugging Face  
+Built a coffee‑shop app with AI‑chat via LLaMA‑3 and RAG; agent‑based architecture handles order intake, recommendations, and query filtering; integrated analytics on purchase patterns.
+
+**[Tennis Performance Analysis](#)** — Python, PyTorch, OpenCV, YOLOv8, Pandas  
+Developed a CV system to analyze tennis performance: YOLOv8 detection and ResNet‑based court keypoints enable real‑time ball/player tracking and video‑based metrics (speed, shot velocity).
 
 
 _Last updated: July 2025_
