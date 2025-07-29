@@ -1,30 +1,52 @@
-# Have A Chat with Me?
+# Nhat Le
 
-A student pursuing triple majors in Comp. Science, Applied Math and Data Science.
-
-Interests: Theoretical and Applied AI (e.g., LLM/CV/NLP) and Software Engineering
-
-Contact: lan0908@iastate.edu | https://www.linkedin.com/in/nhat-le05
+Student at Iowa State University (Computer Science, Applied Mathematics, Data Science).  
+Interests: Theoretical & Applied AI (LLMs, CV, NLP) and Software Engineering.  
+Contact: lan0908@iastate.edu · https://www.linkedin.com/in/nhat-le05
 
 ---
 
 ## AI Research — Selected Repositories
-- [VLM Concept Alignment](https://github.com/im-anhat/VLMConceptAlignment) — Concept Alignment for better visual and conceptual reasoning and explainability
-- [Knowledge Graph](https://github.com/im-anhat/knowledge-graph) — A framework that helps link re-phrased entity mentions to correct entities
-- [CS 579](https://github.com/im-anhat/nlp-writeups) - A repository for CS 579: NLP at Iowa State, including my code files and report write-ups.
+
+<dl>
+  <dt><a href="https://github.com/im-anhat/VLMConceptAlignment">VLM Concept Alignment</a></dt>
+  <dd>Concept alignment to improve visual + conceptual reasoning and explainability.</dd>
+
+  <dt><a href="https://github.com/im-anhat/knowledge-graph">Knowledge Graph</a></dt>
+  <dd>Framework that links re‑phrased mentions to the correct entities.</dd>
+
+  <dt><a href="https://github.com/im-anhat/nlp-writeups">CS 579: NLP Write‑ups</a></dt>
+  <dd>Course repository with code and concise reports.</dd>
+</dl>
 
 ## AI Research — Favorite Papers
-- **<Title>** (<year>) — <authors>. [Link](<url>) — <your 1‑line takeaway>.
-- **<Title>** (<year>) — <authors>. [Link](<url>) — <takeaway>.
-- **<Title>** (<year>) — <authors>. [Link](<url>) — <takeaway>.
+
+<dl>
+  <dt>Title — <a href="<url>">link</a> (<YYYY>)</dt>
+  <dd>Your 1‑line takeaway.</dd>
+
+  <dt>Title — <a href="<url>">link</a> (<YYYY>)</dt>
+  <dd>Your 1‑line takeaway.</dd>
+
+  <dt>Title — <a href="<url>">link</a> (<YYYY>)</dt>
+  <dd>Your 1‑line takeaway.</dd>
+</dl>
 
 ---
 
 ## Software Projects — Selected Repositories
-- [<repo-A>](https://github.com/<user>/<repo-A>) — <what it does> — <stack/tech>.
-- [<repo-B>](https://github.com/<user>/<repo-B>) — <one line>.
-- [<repo-C>](https://github.com/<user>/<repo-C>) — <one line>.
+
+<dl>
+  <dt><a href="<url>">Repo A</a></dt>
+  <dd>What it does — tech stack.</dd>
+
+  <dt><a href="<url>">Repo B</a></dt>
+  <dd>What it does — tech stack.</dd>
+
+  <dt><a href="<url>">Repo C</a></dt>
+  <dd>What it does — tech stack.</dd>
+</dl>
 
 ---
 
-_Last updated: <Month YYYY>_
+_Last updated: July 2025_
