@@ -9,14 +9,14 @@ Contact: lan0908@iastate.edu · https://www.linkedin.com/in/nhat-le05
 ## AI Research — Selected Repositories
 
 <dl>
-  <dt><a href="https://github.com/im-anhat/VLMConceptAlignment">VLM Concept Alignment</a></dt>
-  <dd>Concept alignment to improve visual + conceptual reasoning and explainability.</dd>
+  <dt><a href="https://github.com/im-anhat/VLMConceptAlignment">Concept Alignment</a></dt>
+  <dd>Concept alignment to improve visual + conceptual reasoning and explainability of large vision-language model.</dd>
 
   <dt><a href="https://github.com/im-anhat/knowledge-graph">Knowledge Graph</a></dt>
   <dd>Framework that links re‑phrased mentions to the correct entities.</dd>
 
-  <dt><a href="https://github.com/im-anhat/nlp-writeups">CS 579: NLP Write‑ups</a></dt>
-  <dd>Course repository with code and concise reports.</dd>
+  <dt><a href="https://github.com/im-anhat/nlp-writeups">CS 579: NLP</a></dt>
+  <dd>A school repository for CS 579 with code and report write-ups.</dd>
 </dl>
 
 ## AI Research — Favorite Papers
