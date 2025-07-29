@@ -6,7 +6,7 @@ Contact: lan0908@iastate.edu · https://www.linkedin.com/in/nhat-le05
 
 ---
 
-## AI Research
+## My AI Journey
 
 **[Concept Alignment](https://github.com/im-anhat/VLMConceptAlignment)**  
 Concept alignment framework to improve visual + conceptual reasoning and explainability of large vision‑language model.
@@ -24,19 +24,8 @@ A school repository for CS 579 with code and report write‑ups.
 
 ---
 
-## Software Projects — Selected Repositories
+## Software Engineering Projects — Selected Repositories
 
-<dl>
-  <dt><a href="<url>">Repo A</a></dt>
-  <dd>What it does — tech stack.</dd>
 
-  <dt><a href="<url>">Repo B</a></dt>
-  <dd>What it does — tech stack.</dd>
-
-  <dt><a href="<url>">Repo C</a></dt>
-  <dd>What it does — tech stack.</dd>
-</dl>
-
----
 
 _Last updated: July 2025_
