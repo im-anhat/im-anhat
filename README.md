@@ -6,31 +6,21 @@ Contact: lan0908@iastate.edu · https://www.linkedin.com/in/nhat-le05
 
 ---
 
-## AI Research — Selected Repositories
+## AI Research
 
-<dl>
-  <dt><a href="https://github.com/im-anhat/VLMConceptAlignment">Concept Alignment</a></dt>
-  <dd>Concept alignment to improve visual + conceptual reasoning and explainability of large vision-language model.</dd>
+**[Concept Alignment](https://github.com/im-anhat/VLMConceptAlignment)**  
+Concept alignment framework to improve visual + conceptual reasoning and explainability of large vision‑language model.
 
-  <dt><a href="https://github.com/im-anhat/knowledge-graph">Knowledge Graph</a></dt>
-  <dd>Framework that links re‑phrased mentions to the correct entities.</dd>
+**[Knowledge Graph](https://github.com/im-anhat/knowledge-graph)**  
+Entity-linking framework that links re‑phrased mentions to the correct entities.
 
-  <dt><a href="https://github.com/im-anhat/nlp-writeups">CS 579: NLP</a></dt>
-  <dd>A school repository for CS 579 with code and report write-ups.</dd>
-</dl>
+**[CS 579: NLP](https://github.com/im-anhat/nlp-writeups)**  
+A school repository for CS 579 with code and report write‑ups.
 
-## AI Research — Favorite Papers
+## Favorite AI Papers
 
-<dl>
-  <dt>Title — <a href="<url>">link</a> (<YYYY>)</dt>
-  <dd>Your 1‑line takeaway.</dd>
-
-  <dt>Title — <a href="<url>">link</a> (<YYYY>)</dt>
-  <dd>Your 1‑line takeaway.</dd>
-
-  <dt>Title — <a href="<url>">link</a> (<YYYY>)</dt>
-  <dd>Your 1‑line takeaway.</dd>
-</dl>
+**[Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155)** — OpenAI, 2022  
+**[Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)** — Stanford, 2023
 
 ---
 
