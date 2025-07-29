@@ -1,6 +1,6 @@
 # Nhat Le
 
-Student at Iowa State University (Computer Science, Applied Mathematics, Data Science).  
+Student at Iowa State University pursuing triple majors in Computer Science, Applied Mathematics, and Data Science.
 Interests: Theoretical & Applied AI (LLMs, CV, NLP) and Software Engineering.  
 Contact: lan0908@iastate.edu · https://www.linkedin.com/in/nhat-le05
 
