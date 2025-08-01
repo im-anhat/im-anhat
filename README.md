@@ -19,6 +19,7 @@ A school repository for CS 579 with code and report write‑ups.
 
 ## Favorite AI Papers
 **[Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction](https://openreview.net/forum?id=Hi0SyHMmkd)** - Google & CMU, 2025
+
 Outstanding paper at ICML 2025; empirically designed open-ended tasks to quantify creative limits of language models.
   
 **[Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155)** — OpenAI, 2022
