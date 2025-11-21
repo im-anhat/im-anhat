@@ -1,17 +1,19 @@
 # Nhat Le
 
-Student at Iowa State University pursuing triple majors in Computer Science, Applied Mathematics, and Data Science.
-Interests: Theoretical & Applied AI (LLMs, CV, NLP) and Software Engineering.  
+Student at Iowa State University pursuing 3x majors in CS, Math and Data Science.
+Research Interests: Multimodal Learning, Vision and LLM Alignment.
+Professional/Job Interests: Software Engineer AND/OR AI Engineer.
 Contact: lan0908@iastate.edu · https://www.linkedin.com/in/nhat-le05
 
 ---
 
 ## My AI Journey
 
-**[Concept Alignment](https://github.com/im-anhat/VLMConceptAlignment)**  
+**[Multimodal LLM Alignment](https://github.com/im-anhat/VLMConceptAlignment)**  
 Concept alignment framework to improve visual + conceptual reasoning and explainability of large vision‑language model.
+Submitted to CVPR 2026 – one of the most prestigious AI conferences (25K submissions)
 
-**[Knowledge Graph](https://github.com/im-anhat/knowledge-graph)**  
+**[Knowledge Graph - Entity Linking](https://github.com/im-anhat/knowledge-graph)**  
 Entity-linking framework that links re‑phrased mentions to the correct entities.
 
 **[CS 579: NLP](https://github.com/im-anhat/nlp-writeups)**  
@@ -34,7 +36,7 @@ Outstanding paper at ICML 2025; empirically designed open-ended tasks to quantif
 
 ## Software Engineering Projects
 
-**[Local Taste](https://github.com/im-anhat/dine-with-locals)** — Team Lead | TypeScript, React, TailwindCSS, ShadCN, Google Cloud APIs, CI/CD  
+**[Local Taste](https://github.com/local-taste/dine-with-locals)** — Team Lead | TypeScript, React, TailwindCSS, ShadCN, Google Cloud APIs, CI/CD  
 Championed a team of four to build a cultural dining app with payment rewards, real-time chat/blog feeds, and AI features; led coding standards, MongoDB setup, UI design, and CI/CD pipelines.
 
 **[Projectify](https://github.com/im-anhat/projectify)** — Fullstack | TypeScript, Next.js, React, Express, Redux Toolkit, AWS  
@@ -50,4 +52,4 @@ Built a coffee‑shop app with AI‑chat via LLaMA‑3 and RAG; agent‑based ar
 Developed a CV system to analyze tennis performance: YOLOv8 detection and ResNet‑based court keypoints enable real‑time ball/player tracking and video‑based metrics (speed, shot velocity).
 
 
-_Last updated: July 2025_
+_Last updated: November 2025_
