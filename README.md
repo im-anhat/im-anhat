@@ -7,18 +7,6 @@ Contact: lan0908@iastate.edu · https://www.linkedin.com/in/nhat-le05
 
 ---
 
-## My AI Journey
-
-**[Multimodal LLM Alignment](https://github.com/im-anhat/VLMConceptAlignment)**  
-A concept alignment framework to improve visual + conceptual reasoning and explainability of large vision‑language model.
-
-Submitted to CVPR 2026 – one of the most prestigious AI conferences (25K submissions).
-
-**[Knowledge Graph - Entity Linking](https://github.com/im-anhat/knowledge-graph)**  
-Entity-linking framework that links re‑phrased mentions to the correct entities.
-
-**[CS 579: NLP](https://github.com/im-anhat/nlp-writeups)**  
-A school repository for CS 579 with code and report write‑ups.
 
 ## Favorite AI Papers
 **[Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction](https://openreview.net/forum?id=Hi0SyHMmkd)**
