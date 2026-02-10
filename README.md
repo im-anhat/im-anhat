@@ -22,6 +22,6 @@
 - **Projectify** — real-time project management platform (AWS S3, EC2, RDS, API Gateway + React/Express app) 🚀
 - **ISU Pulse** — campus activities + announcements + chat (Java Spring Boot, Android Studio, Class Recommendation with OpenAI)📣
 - **LLaMA-Latte** — coffee app w/ LLaMA-3 (React Native, LlaMA-3, Market Basket Analysis/Apriori Algorithm) ☕
-- **Tennis Analysis** — YOLOv8-based tennis tracking + metrics (Finetuned ResNet-50)🎾
+- **Tennis Analysis** — YOLOv8-based tennis tracking + metrics (YOLO-v8, Finetuned YOLO, Finetuned ResNet-50)🎾
 
 _Last updated: Nov 2025_
