@@ -1,8 +1,16 @@
 ## 👋 Nhat Le
 🎓 Iowa State University — Triple majors: CS • Math • Data Science  
 🔬 Interests: Multimodal Learning, Vision/LLM Alignment  
-💼 Open to: SWE / AI Engineer roles  
+💼 Open to: SWE / AI Engineer / Data Scientist roles  
 📫 Contact: lan0908@iastate.edu · 💼 LinkedIn: https://www.linkedin.com/in/nhat-le05
+
+### 💼 Experience
+- **Software Engineer Intern (Backend)** — TikTok (May 2026 - August 2026 · 3 mos) 🚀
+- **Multimodal Research Intern** — William & Mary (Jan 2025 – Present · 1 yr 2 mos) 🧠  
+- **Data Analytics Engineering Intern** — Synopsys (Jan 2026 – April 2026 · 4 mos) 📊  
+- **Data Science Analyst Intern (Part-time)** — Vermeer Corporation (Aug 2025 – Dec 2025 · 5 mos) 🛠️  
+- **Data Science Analyst Intern (Full-time)** — Vermeer Corporation (Jun 2025 – Aug 2025 · 3 mos) 🔧  
+- **NLP Student Researcher** — Iowa State University (May 2025 – Dec 2025 · 8 mos) 📚  
 
 ### 📚 Papers that Sparked My Interests
 - Roll the dice & look before you leap — creative limits of LMs via open-ended evals 🎲
