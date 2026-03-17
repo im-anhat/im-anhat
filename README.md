@@ -12,11 +12,6 @@
 - **Data Science Analyst Intern (Full-time)** — Vermeer Corporation (Jun 2025 – Aug 2025 · 3 mos) 🔧  
 - **NLP Student Researcher** — Iowa State University (May 2025 – Dec 2025 · 8 mos) 📚  
 
-### 📚 Papers that Sparked My Interests
-- Roll the dice & look before you leap — creative limits of LMs via open-ended evals 🎲
-- Training Language Models to Follow Instructions with Human Feedback — RLHF / instruction tuning 🤝
-- Direct Preference Optimization — alignment without a reward model ⚡
-
 ### 🛠️ Projects
 - **[Local Taste](https://github.com/local-taste/dine-with-locals)** — cultural dining app with rewards + chat/feed + AI (GCP, TypeScript, React, Socket.IO, Stripe) 🍜  
 - **[Projectify](https://github.com/im-anhat/projectify)** — real-time project management platform (AWS S3, EC2, RDS, API Gateway + React/Express app) 🚀  
