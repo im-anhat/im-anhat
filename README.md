@@ -13,7 +13,7 @@
 
 ### 🛠️ Projects
 - **[Local Taste](https://github.com/local-taste/dine-with-locals)** — cultural dining app with rewards + chat/feed + AI (GCP, TypeScript, React, Socket.IO, Stripe) 🍜  
-- **[Projectify](https://github.com/im-anhat/projectify)** — real-time project management platform (AWS S3, EC2, RDS, API Gateway + React/Express app) 🚀  
+- **[Projectify](https://github.com/im-anhat/Projectify)** — real-time project management platform (AWS S3, EC2, RDS, API Gateway + React/Express app) 🚀  
 - **[ISU Pulse](https://github.com/im-anhat/ISU_Pulse)** — campus activities + announcements + chat (Java Spring Boot, Android Studio, Class Recommendation with OpenAI) 📣  
 - **[LLaMA-Latte](https://github.com/im-anhat/llama-latte)** — coffee app w/ LLaMA-3 (React Native, LLaMA-3, Market Basket Analysis/Apriori) ☕  
 - **[Tennis Analysis](https://github.com/im-anhat/tennis-analysis)** — YOLOv8-based tennis tracking + metrics (YOLOv8, finetuned YOLO, finetuned ResNet-50) 🎾  
